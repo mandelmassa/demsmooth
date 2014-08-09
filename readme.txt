@@ -10,6 +10,8 @@ Requires libdemo https://github.com/mandelmassa/libdemo
 
 Release Notes
 =============
+Version 1.02 released 2014-07-21
+- Fixed a serverinfo parse bug in libdemo.
 
 Version 1.01 released 2014-06-07
 - Changed to mingw32-gcc to support non-cygwin users.
