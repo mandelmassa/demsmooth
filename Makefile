@@ -1,4 +1,5 @@
-CC			 = mingw32-gcc
+CC			 = i686-pc-mingw32-gcc
+LD			 = i686-pc-mingw32-ld
 
 OBJS		+= smooth.o
 

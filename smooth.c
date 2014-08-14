@@ -33,7 +33,7 @@
 #include "demo.h"
 
 #define DEMSMOOTH_VERSION_MAJOR 1
-#define DEMSMOOTH_VERSION_MINOR 1
+#define DEMSMOOTH_VERSION_MINOR 3
 
 /***************************************************************************
  * CONFIGURATION

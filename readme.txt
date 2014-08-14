@@ -10,6 +10,9 @@ Requires libdemo https://github.com/mandelmassa/libdemo
 
 Release Notes
 =============
+Version 1.03 released 2014-08-14
+- Fixed a Fitzquake spawn baseline parse bug in libdemo.
+
 Version 1.02 released 2014-07-21
 - Fixed a serverinfo parse bug in libdemo.
 
